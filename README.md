@@ -13,6 +13,8 @@
 ### Project Overview
 This data analysis project aims to provide insights to an e-commerce company.By analyzing the various aspects of the sales or supply data, we seek to identify trends, make data driven recommendation and gain a beter understanding of the company's performance.
 
+![Bar Graph](https://github.com/user-attachments/assets/6720d7fc-d37e-45a8-ad73-c9644425a301)
+
 ### Data Sources
 Sales data: The primary dataset used for this analysis is the "sales-data.csv" file, containing detailed information about each sale made by the company.
 ### Tools
